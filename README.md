@@ -1,7 +1,7 @@
 # Fetch_Exercise
 
 ## Run instructions 
-To run the project, click on the 'Similarity.ipynb' file above, and then click 'open in collab.' You may be prompted to sign in to a google account to run it, but I have made the project public, so you should be able to run it in that notebook. If you have any issues you may need to save the notebook as your own, or as a last resort copy and paste the code into a local python interpreter if your environement does not allow for the usage of Google-based development enironments. 
+To run the project, click on the 'Similarity.ipynb' file above, and then click 'open in collab.' You may be prompted to sign in to a google account to run it, but I have made the project public, so you should be able to run it in that notebook by pressing SHIFT and ENTER at the same time. You can then type your strings in the input box below the code. If you have any issues you may need to save the notebook as your own, or as a last resort copy and paste the code into a local python interpreter if your environement does not allow for the usage of Google-based development enironments. 
 
 ## My Thought Process 
 Since the project specifications state that the similarity checker does not have to be practical / optimizaed, I thought I would take an interesting approach, one which reflects how I like to look at data when doing numerical analysis.
